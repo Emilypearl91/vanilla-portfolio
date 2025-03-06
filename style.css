@@ -1,0 +1,42 @@
+body{
+  margin: auto;
+  background-color: #F7EDE2;
+}
+
+h1 {
+  font-family: nice honey, ;
+}
+img {
+  max-width: 639px;
+
+}
+p {
+  max-width: 510px;
+  max-height: 354px;
+  color: white;
+  font-size: 32px;
+  margin: auto;
+}
+div {
+  margin: auto;
+}
+nav{
+  background-color: #38381D;
+  margin: none;
+  height: 8rem;
+}
+
+.hero {
+  max-height: 748px;
+  background-color: #1E1E1E;
+  display: flex;
+  flex-direction: row;
+}
+
+.button {
+  width: 173px;
+  height: 73px;
+  background-color: #802E4D;
+  margin: 2rem;;
+}
+
